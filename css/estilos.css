@@ -1,0 +1,13 @@
+.row{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 5px;
+}
